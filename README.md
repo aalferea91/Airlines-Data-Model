@@ -19,3 +19,10 @@ RESOLUTION
 
 
 [airlines-dbdesigner.pdf](https://github.com/aalferea91/Airlines-Data-Model/files/9778169/airlines-dbdesigner.pdf)
+
+
+2. Create the tables in Snowflake according to the data model designed in the previous exercise.
+
+RESOLUTION
+
+First we need to create a database in SnowFlake and then a Schema.
