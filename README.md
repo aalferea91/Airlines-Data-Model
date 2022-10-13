@@ -34,3 +34,14 @@ https://github.com/aalferea91/Airlines-Data-Model/blob/3c258c4ae37af359c80b5b985
 RESOLUTION
 
 Find the ETL processes in the following notebook: [Data_load.ipynb](https://github.com/aalferea91/Airlines-Data-Model/blob/f8aa5805f4694d6fbb99297ac3b6ef6db9b8e5f2/Data_load.ipynb)
+
+4. Answer the following questions:
+
+-Obtain the number of routes of each country as origin country in descending order. Show the name of the country.
+-Obtain the number of routes of each country as country of the airline in descending order. Show the name of the country.
+-Obtain the number of of routes of each equipment in descending order. Show the name of the equipments and only show those equipments with more than 2000 routes.
+-Obtain the number of routes of each equipment for the routes whose origin airport is Barajas (1229) in descending order. Show the name of the equipment.
+-Obtain the two countries in which there are more routes.
+
+RESOLUTION
+
