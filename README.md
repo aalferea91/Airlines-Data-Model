@@ -33,4 +33,4 @@ First we need to create a database in SnowFlake and then a Schema. Then go to th
 
 RESOLUTION
 
-Find the ETL processes in the following notebook: Data_load.ipynb
+Find the ETL processes in the following notebook: [Data_load.ipynb](https://github.com/aalferea91/Airlines-Data-Model/blob/f8aa5805f4694d6fbb99297ac3b6ef6db9b8e5f2/Data_load.ipynb)
