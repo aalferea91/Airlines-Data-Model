@@ -25,4 +25,10 @@ RESOLUTION
 
 RESOLUTION
 
-First we need to create a database in SnowFlake and then a Schema.
+First we need to create a database in SnowFlake and then a Schema. Then go to the worksheet section in order to run the queries to create the tables:
+
+[SQL Queries.docx](https://github.com/aalferea91/Airlines-Data-Model/files/9778897/SQL.Queries.docx)
+
+3. Create the ETL processes necessary to load all the data into their respective tables in Snowflake. Make sure to do all the data validation required as there are dependancies between tables in the same database.
+
+--insertar notebook de dataload--
