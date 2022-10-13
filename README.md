@@ -31,4 +31,6 @@ First we need to create a database in SnowFlake and then a Schema. Then go to th
 
 3. Create the ETL processes necessary to load all the data into their respective tables in Snowflake. Make sure to do all the data validation required as there are dependancies between tables in the same database.
 
---insertar notebook de dataload--
+RESOLUTION
+
+Find the ETL processes in the following notebook: 
