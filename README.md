@@ -16,4 +16,5 @@ Note: you can find the description of all the files with the relevant informatio
 
 RESOLUTION
 
-<img width="681" alt="design" src="https://user-images.githubusercontent.com/92360704/195637429-627be15f-5dea-4298-804b-f76a55d38ab1.PNG">
+
+[airlines-dbdesigner.pdf](https://github.com/aalferea91/Airlines-Data-Model/files/9778169/airlines-dbdesigner.pdf)
