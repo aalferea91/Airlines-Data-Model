@@ -33,4 +33,4 @@ First we need to create a database in SnowFlake and then a Schema. Then go to th
 
 RESOLUTION
 
-Find the ETL processes in the following notebook: 
+Find the ETL processes in the following notebook: Data_load.ipynb
