@@ -51,7 +51,7 @@ https://github.com/aalferea91/Airlines-Data-Model/blob/672b3a867540846b4b608574a
 
 RESOLUTION
 
-Find the SQL query in the following link:
+Find the SQL query in the following link: https://github.com/aalferea91/Airlines-Data-Model/blob/a394a17e51aaa334cc883d364a6588764c31ee56/Denormalized_table.sql
 
 
 
