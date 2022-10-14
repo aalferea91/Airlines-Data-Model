@@ -47,7 +47,11 @@ RESOLUTION
 
 https://github.com/aalferea91/Airlines-Data-Model/blob/672b3a867540846b4b608574a1e9f607f9a81819/Data_analysis.ipynb
 
-5. Create a a denormalized table that stores the information of the tables: routes, airports, airlines:
+5. Create a a denormalized table that stores the information of the tables: routes, airports, airlines.
+
+RESOLUTION
+
+Find the SQL query in the following link:
 
 
 
