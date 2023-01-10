@@ -4,8 +4,11 @@ In this project I will design a datawarehouse model and it´s different ETLS acc
 1. Create a data model that will allow to analyze the different routes for airlines based in different dimensions: airport, airline, country or equipment.
 
 Examples of analysis:
+
 -Number of routes by airport, airline, and country. With the possibility to filter the information by type of route (domestic or international).
+
 -Rankings:
+
         1. Airports with highest number of routes.
         
         2. Airlines with the highest number of routes.
