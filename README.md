@@ -1,7 +1,7 @@
 # Airlines-Data-Model
 In this project I will design a datawarehouse model and it´s different ETLS according to specific requirements.
 
-1. Create a data model that will allow to analyze the different routes for airlines based in different dimensions: airport, airline, country or equipment.
+### 1. Create a data model that will allow to analyze the different routes for airlines based in different dimensions: airport, airline, country or equipment.
 
 Examples of analysis:
 
@@ -23,27 +23,27 @@ The objective of this question is only to design the model with the different en
 Note: you can find the description of all the files with the relevant information in the following link: [files description.docx](https://github.com/aalferea91/Airlines-Data-Model/files/9778403/files.description.docx)
 
 
-RESOLUTION
+### RESOLUTION
 
 
 [airlines-dbdesigner.pdf](https://github.com/aalferea91/Airlines-Data-Model/files/9778169/airlines-dbdesigner.pdf)
 
 
-2. Create the tables in Snowflake according to the data model designed in the previous exercise.
+### 2. Create the tables in Snowflake according to the data model designed in the previous exercise.
 
-RESOLUTION
+### RESOLUTION
 
 First we need to create a database in SnowFlake and then a Schema. Then go to the worksheet section in order to run the queries to create the tables:
 
 https://github.com/aalferea91/Airlines-Data-Model/blob/3c258c4ae37af359c80b5b9858aae0f59358f971/Airlines%20queries.sql
 
-3. Create the ETL processes necessary to load all the data into their respective tables in Snowflake. Make sure to do all the data validation required as there are dependancies between tables in the same database.
+### 3. Create the ETL processes necessary to load all the data into their respective tables in Snowflake. Make sure to do all the data validation required as there are dependancies between tables in the same database.
 
-RESOLUTION
+### RESOLUTION
 
 Find the ETL processes in the following notebook: [Data_load.ipynb](https://github.com/aalferea91/Airlines-Data-Model/blob/f8aa5805f4694d6fbb99297ac3b6ef6db9b8e5f2/Data_load.ipynb)
 
-4. Answer the following questions:
+### 4. Answer the following questions:
 
 -Obtain the number of routes of each country as origin country in descending order. Show the name of the country.
 -Obtain the number of routes of each country as country of the airline in descending order. Show the name of the country.
@@ -51,13 +51,13 @@ Find the ETL processes in the following notebook: [Data_load.ipynb](https://gith
 -Obtain the number of routes of each equipment for the routes whose origin airport is Barajas (1229) in descending order. Show the name of the equipment.
 -Obtain the two countries in which there are more routes.
 
-RESOLUTION
+### RESOLUTION
 
 https://github.com/aalferea91/Airlines-Data-Model/blob/672b3a867540846b4b608574a1e9f607f9a81819/Data_analysis.ipynb
 
-5. Create a a denormalized table that stores the information of the tables: routes, airports, airlines.
+### 5. Create a a denormalized table that stores the information of the tables: routes, airports, airlines.
 
-RESOLUTION
+### RESOLUTION
 
 Find the SQL query in the following link: https://github.com/aalferea91/Airlines-Data-Model/blob/a394a17e51aaa334cc883d364a6588764c31ee56/Denormalized_table.sql
 
